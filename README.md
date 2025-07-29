@@ -5,7 +5,7 @@
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 
 
-## Introduction
+## Introduction 
 
 SafeFingerPrint is a powerful PHP library for advanced visitor tracking, bot detection, and behavior analysis. It provides comprehensive fingerprinting capabilities with sophisticated behavior detection algorithms to help protect your web applications from automated threats while maintaining legitimate user access.
 
